@@ -2,5 +2,5 @@
 Integrantes del grupo: 
 --Edison Heredero 
 --Luis Garofalo
---Alejadnro Zamora 
+--Alejandro Zamora 
 --Michael Ochoa
